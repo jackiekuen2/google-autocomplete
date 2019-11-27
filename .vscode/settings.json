@@ -1,8 +1,0 @@
-{
-    "editor.fontSize": 14,
-    "files.autoSave": "onFocusChange",
-    "python.terminal.activateEnvironment": false,
-    "editor.rulers": [80, 120],
-    "terminal.integrated.fontSize": 14,
-    "python.pythonPath": "/Users/jackiekuen/.local/share/virtualenvs/GoogleAutofill-gSjSjfwE/bin/python"
-}
